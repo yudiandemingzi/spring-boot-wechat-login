@@ -6,7 +6,7 @@
 
 1、[扫码登录流程讲解、获取授权登陆二维码](https://www.cnblogs.com/qdhxhz/p/9671802.html)
 
-2、[本地调试工具ngrok、微信回调ngrok域名](:https://www.cnblogs.com/qdhxhz/p/9678137.html)
+2、[本地调试工具ngrok、微信回调ngrok域名](https://www.cnblogs.com/qdhxhz/p/9678137.html)
 
 3、[授权码code获取用户基本信息](https://www.cnblogs.com/qdhxhz/p/9700715.html)
 
