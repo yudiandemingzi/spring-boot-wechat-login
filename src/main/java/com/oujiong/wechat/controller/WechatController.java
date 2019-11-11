@@ -1,8 +1,8 @@
-package com.jincou.wechat.controller;
+package com.oujiong.wechat.controller;
 
-import com.jincou.wechat.config.WeChatConfig;
-import com.jincou.wechat.domain.JsonData;
-import com.jincou.wechat.service.UserService;
+import com.oujiong.wechat.config.WeChatConfig;
+import com.oujiong.wechat.domain.JsonData;
+import com.oujiong.wechat.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

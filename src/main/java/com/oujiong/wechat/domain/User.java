@@ -1,4 +1,4 @@
-package com.jincou.wechat.domain;
+package com.oujiong.wechat.domain;
 
 
 import lombok.Data;

@@ -1,10 +1,10 @@
-package com.jincou.wechat.service.impl;
+package com.oujiong.wechat.service.impl;
 
 
-import com.jincou.wechat.config.WeChatConfig;
-import com.jincou.wechat.domain.User;
-import com.jincou.wechat.service.UserService;
-import com.jincou.wechat.utils.HttpUtils;
+import com.oujiong.wechat.config.WeChatConfig;
+import com.oujiong.wechat.domain.User;
+import com.oujiong.wechat.service.UserService;
+import com.oujiong.wechat.utils.HttpUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

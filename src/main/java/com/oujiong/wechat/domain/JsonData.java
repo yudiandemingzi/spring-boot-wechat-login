@@ -1,4 +1,4 @@
-package com.jincou.wechat.domain;
+package com.oujiong.wechat.domain;
 
 import java.io.Serializable;
 
@@ -10,7 +10,7 @@ import java.io.Serializable;
 public class JsonData implements Serializable {
 
 	/**
-	 * 
+	 *
 	 */
 	private static final long serialVersionUID = 1L;
 

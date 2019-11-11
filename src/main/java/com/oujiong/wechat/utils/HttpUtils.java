@@ -1,4 +1,4 @@
-package com.jincou.wechat.utils;
+package com.oujiong.wechat.utils;
 
 import com.google.gson.Gson;
 import org.apache.http.HttpEntity;
@@ -109,10 +109,5 @@ public class HttpUtils {
         return null;
 
     }
-
-
-
-
-
 
 }

@@ -1,7 +1,7 @@
-package com.jincou.wechat.service;
+package com.oujiong.wechat.service;
 
 
-import com.jincou.wechat.domain.User;
+import com.oujiong.wechat.domain.User;
 
 /**
  *用户业务接口类

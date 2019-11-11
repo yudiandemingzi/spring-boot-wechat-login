@@ -1,4 +1,4 @@
-package com.jincou.wechat.config;
+package com.oujiong.wechat.config;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
