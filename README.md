@@ -23,3 +23,5 @@ SpringBoot2.1.5 + Maven3.5.4 + Mybatis + lombok(插件) + ngrok
 为了能够实现本地调试，这里用了ngrok穿透技术，它的作用就是：
 
 微信回调商户接口的时候，通过ngrok工具就可以回调到本地，方便本地调试。
+
+![acda64387e0896604b5932dc433c8b77](https://user-images.githubusercontent.com/37285812/142142067-e0dc2600-8283-4cc6-b6aa-70bdec8263dd.gif)
